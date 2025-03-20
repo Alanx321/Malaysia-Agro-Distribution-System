@@ -1,0 +1,11 @@
+0|eg546ersio|d7t1g5a8so|20250321:01:42|Genesis Block
+1|6mznpbrt7z|eg546ersio|20250321:01:42|Added Product | Product ID: 1 | Name: Rice | Price: RM5.50 | Stock: 1000
+2|ecej3gwssm|6mznpbrt7z|20250321:01:42|Added Product | Product ID: 2 | Name: Vegetables | Price: RM3.20 | Stock: 800
+3|svewhw8jx8|ecej3gwssm|20250321:01:42|Added Product | Product ID: 3 | Name: Fruits | Price: RM4.75 | Stock: 600
+4|hyc2o9ir8u|svewhw8jx8|20250321:01:42|Added Supplier | Supplier ID: 1 | Name: Malayan Agro | Location: Lot 348, Kampung Datuk Keramat, 50400 Kuala Lumpur | Branch: Federal Territory of Kuala Lumpur
+5|acoypok37r|hyc2o9ir8u|20250321:01:42|Added Supplier | Supplier ID: 2 | Name: Farm Fresh Produce | Location: Jalan Tun Razak, 55000 Kuala Lumpur | Branch: Federal Territory of Kuala Lumpur
+6|txgimz5437|acoypok37r|20250321:01:42|Added Retailer | Retailer ID: 1 | Name: SuperMart | Location: Bukit Bintang, 55100 Kuala Lumpur | Credit Balance: RM10000.00 | Annual Credit Balance: RM100000.00
+7|k1u0td8ffy|txgimz5437|20250321:01:42|Added Retailer | Retailer ID: 2 | Name: FreshMart | Location: Petaling Jaya, 47800 Selangor | Credit Balance: RM8000.00 | Annual Credit Balance: RM80000.00
+8|9krefzer4z|k1u0td8ffy|20250321:01:42|Added Retailer | Retailer ID: 3 | Name: QuickMart | Location: Shah Alam, 40000 Selangor | Credit Balance: RM5000.00 | Annual Credit Balance: RM50000.00
+9|tse589acvt|9krefzer4z|20250321:01:42|Added Transporter | Transporter ID: 1 | Name: FastTruck | Type: Ordinary Ground Transfer | Cost/km: RM2.50 | Max Capacity: 2000.00kg
+10|kfhnarayz7|tse589acvt|20250321:01:42|Added Transporter | Transporter ID: 2 | Name: SpeedyDel | Type: Express Delivery | Cost/km: RM3.75 | Max Capacity: 1500.00kg
